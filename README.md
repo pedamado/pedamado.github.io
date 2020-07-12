@@ -5,6 +5,7 @@ This is my first GitHub page.
 Here I'll list the [d3++ youtube channel](https://www.youtube.com/watch?v=Sak4oiuew_Q&list=PLEz9y19-UrRZrhMBI1S-RmqHuWWmNU7bu) issues and stuff to do "shiffman-style"
 
 
+What follows is a short excerpt from the [Github markdown guide] (https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) for personal reference (to be removed in the near future)
 
 # The largest heading
 ## The second largest heading
